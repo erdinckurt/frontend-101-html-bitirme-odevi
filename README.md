@@ -1,2 +1,1 @@
-# frontend-101-html-bitirme-odevi
-Bölüm Sonu Çalışması
+[Click to see](https://erdinckurt.github.io/frontend-101-html-ucuncu-odev/)
